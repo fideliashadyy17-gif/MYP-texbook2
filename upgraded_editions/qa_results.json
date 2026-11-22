@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "issues": [],
+  "manifest": {
+    "1": {
+      "source": "MYP-Mathematics-1-Student-Coursebook.pdf",
+      "output": "upgraded_editions/MYP_Mathematics_1_Student_Coursebook_Upgraded_2026.pdf",
+      "original_pages": 240,
+      "new_pages": 261,
+      "chapters": 10
+    },
+    "2": {
+      "source": "MYP-Mathematics-2-Student-Coursebook.pdf",
+      "output": "upgraded_editions/MYP_Mathematics_2_Student_Coursebook_Upgraded_2026.pdf",
+      "original_pages": 260,
+      "new_pages": 283,
+      "chapters": 11
+    },
+    "3": {
+      "source": "MYP-Mathematics-3-Student-Coursebook.pdf",
+      "output": "upgraded_editions/MYP_Mathematics_3_Student_Coursebook_Upgraded_2026.pdf",
+      "original_pages": 274,
+      "new_pages": 295,
+      "chapters": 10
+    },
+    "4": {
+      "source": "MYP_Mathematics_4_Student_Coursebook.pdf",
+      "output": "upgraded_editions/MYP_Mathematics_4_Student_Coursebook_Upgraded_2026.pdf",
+      "original_pages": 458,
+      "new_pages": 485,
+      "chapters": 13
+    },
+    "5": {
+      "source": "MYP_Mathematics_5_Student_Coursebook.pdf",
+      "output": "upgraded_editions/MYP_Mathematics_5_Student_Coursebook_Upgraded_2026.pdf",
+      "original_pages": 340,
+      "new_pages": 365,
+      "chapters": 12
+    }
+  },
+  "chapter_total": 56,
+  "new_student_tasks": 224
+}
