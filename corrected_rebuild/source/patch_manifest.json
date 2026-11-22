@@ -1,0 +1,796 @@
+{
+  "1": [
+    {
+      "chapter": 1,
+      "title": "Number systems and place value",
+      "physical_pages_modified": [
+        33,
+        34
+      ],
+      "tasks": [
+        "Place −3, 0.45, 1/2 and 2.1 on one number line. Then order them from least to greatest.",
+        "A clinic orders 198 boxes with 24 masks per box. Estimate first, then calculate the exact number of masks. Explain whether your estimate is reasonable.",
+        "A number rounds to 3,700 to the nearest hundred and to 3,650 to the nearest ten. Determine every possible whole number.",
+        "Use the digits 0, 2, 4 and 7 exactly once to make two two-digit numbers whose positive difference is as small as possible. Prove no smaller positive difference is possible."
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Powers, expanded form and order of operations",
+      "physical_pages_modified": [
+        51,
+        52
+      ],
+      "tasks": [
+        "Evaluate 3² + 2³ × 5 − √81. Show the order of operations.",
+        "A square display has 2⁵ lights in each row and 2⁴ rows. Write the total as a single power of 2 and as a whole number.",
+        "Insert one pair of brackets into 18 − 6 ÷ 3 + 2 so that the value is 6. Verify your expression.",
+        "Find all whole numbers n for which n² + n is a two-digit number ending in 2. Justify that your list is complete."
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Factors, multiples and primes",
+      "physical_pages_modified": [
+        71,
+        72
+      ],
+      "tasks": [
+        "Write 360 as a product of prime factors. Hence find the number of factor pairs of 360.",
+        "Three warning lights flash every 18 s, 24 s and 30 s. They flash together at 09:00:00. When do they next flash together?",
+        "Two numbers have HCF 12 and LCM 420. One number is 60. Find the other and verify both conditions.",
+        "Find the smallest positive integer that leaves remainder 1 when divided by 2, 3, 4 and 5, but is divisible by 7. Explain your search."
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Fractions and decimals",
+      "physical_pages_modified": [
+        93,
+        94
+      ],
+      "tasks": [
+        "Calculate 3/4 − 5/12 + 0.375. Give an exact fraction and a decimal.",
+        "A 2.4 L jug is 5/8 full. Then 0.35 L is poured out. What fraction of the jug’s capacity remains?",
+        "Without a calculator, decide which is larger: 17/23 or 23/31. Show a comparison that does not use decimal approximations.",
+        "A fraction becomes 2/3 when 3 is added to numerator and denominator, and 1/2 when 2 is subtracted from both. Find the original fraction."
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Percentages and applications",
+      "physical_pages_modified": [
+        111,
+        112
+      ],
+      "tasks": [
+        "A price of 48,000 FCFA is reduced by 15%, then increased by 15%. Find the final price and percentage change from the original.",
+        "A market budget is split 35% food, 25% transport, 15% books and the rest savings. If savings are 30,000 FCFA, find the total budget.",
+        "Shop A offers 25% off. Shop B offers 20% off and then 5% off. Compare the final multipliers and explain which is cheaper.",
+        "After a 20% increase, what percentage decrease returns a quantity to its original value? Generalise for an increase of p%. "
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Patterns, expressions and equations",
+      "physical_pages_modified": [
+        130,
+        131
+      ],
+      "tasks": [
+        "For 5, 9, 13, 17, … write a term-to-term rule and an nth-term rule. Find term 50.",
+        "A taxi charge is 900 FCFA plus 350 FCFA per kilometre. Write a formula for C kilometres k, then find k when C=4,400.",
+        "A student claims 4(x+3)=4x+3. Use an area model or numerical counterexample, then state the correct identity.",
+        "A growing pattern uses 4, 10, 18, 28, … tiles. Find a rule for term n and justify it from first differences."
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Lines, angles, triangles and constructions",
+      "physical_pages_modified": [
+        153,
+        154
+      ],
+      "tasks": [
+        "Two parallel lines are cut by a transversal. One obtuse angle is 124°. Determine all acute angles and explain the angle facts used.",
+        "A triangular roof has angles in the ratio 2:3:4. Find the three angles and classify the triangle.",
+        "Can lengths 4.2 cm, 6.1 cm and 10.4 cm form a triangle? Justify without drawing.",
+        "A regular polygon has exterior angle 24°. Find its number of sides and sum of interior angles. Explain why 24° must divide 360°."
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Sets and classification",
+      "physical_pages_modified": [
+        172,
+        173
+      ],
+      "tasks": [
+        "In a class of 32, 18 study French, 15 study Spanish and 7 study both. Complete a Venn diagram and find how many study neither.",
+        "Let U={1,…,20}, A=multiples of 3 and B=factors of 18. List A∩B and A∪B.",
+        "If |A|=19, |B|=17 and |A∪B|=28, find |A∩B| and explain the inclusion–exclusion step.",
+        "Three clubs have 12, 13 and 14 members. Each pair shares 5 members and 2 students are in all three. If 30 students join at least one club, is the information consistent? Justify."
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Perimeter, area, surface area and volume",
+      "physical_pages_modified": [
+        191,
+        192
+      ],
+      "tasks": [
+        "A 12 cm by 8 cm rectangle has a 3 cm by 3 cm square cut from one corner. Find the remaining area and perimeter.",
+        "A closed cuboid is 40 cm by 25 cm by 30 cm. Find its capacity in litres and its external surface area.",
+        "Two rectangles have perimeter 40 cm. Compare the areas of 2 cm×18 cm and 10 cm×10 cm. What do you conjecture?",
+        "An open-top box is made by cutting 2 cm squares from each corner of a 20 cm by 14 cm card. Find its volume and the fraction of card area removed."
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Data, tables and graphs",
+      "physical_pages_modified": [
+        214,
+        215
+      ],
+      "tasks": [
+        "For 4, 7, 7, 8, 9, 10, 10, 10, 15 find mean, median, mode and range.",
+        "A pie-chart sector of 72° represents 18 students. Find the class size and the angle for 27 students.",
+        "A graph of water use starts its vertical axis at 96 L. Values 98 L and 102 L appear four times apart. Explain the visual distortion and redesign the scale.",
+        "Five whole numbers have median 8, unique mode 6 and mean 8. Find one possible set, then determine the smallest possible range."
+      ]
+    }
+  ],
+  "2": [
+    {
+      "chapter": 1,
+      "title": "Ratios and equivalent ratios",
+      "physical_pages_modified": [
+        33,
+        34
+      ],
+      "tasks": [
+        "Simplify 84:126 and write two equivalent ratios.",
+        "Share 168,000 FCFA in the ratio 3:4:5.",
+        "A drink uses syrup:water=2:7. Is adding 100 mL syrup and 350 mL water to any batch guaranteed to preserve the taste? Explain.",
+        "Red:blue is 3:5. After 8 red counters are added it is 7:10. Find the original counts."
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Proportional reasoning",
+      "physical_pages_modified": [
+        48,
+        49
+      ],
+      "tasks": [
+        "If y is directly proportional to x and y=18 when x=12, find the constant and y when x=35.",
+        "A map scale is 1:25,000. A path is 7.6 cm on the map. Find its actual length in kilometres.",
+        "The points (2,7), (5,17.5), (8,28) lie on a line. Explain two tests showing the relationship is proportional.",
+        "Twelve workers complete a task in 15 days at equal rates. After 5 days, 2 workers leave. How many more days are needed?"
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Rates and unit rates",
+      "physical_pages_modified": [
+        63,
+        64
+      ],
+      "tasks": [
+        "A cyclist covers 42 km in 1 h 45 min. Find average speed in km/h.",
+        "Rice costs 8,400 FCFA for 6 kg or 11,200 FCFA for 8.5 kg. Find each unit price and the better buy.",
+        "A tap fills 3/5 of a tank in 24 min. At constant flow, how long for the remaining tank? Explain using a unit rate.",
+        "Two printers together print 900 pages in 12 min. Printer A prints 20 pages/min more than B. Find both rates."
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Integers and operations",
+      "physical_pages_modified": [
+        81,
+        82
+      ],
+      "tasks": [
+        "Evaluate −18−(−7)+4(−3).",
+        "Temperature falls 2.5°C per hour from 6°C for 7 hours, then rises 4°C. Find the final temperature.",
+        "Explain with a number-line pattern why (−5)(−3)=15.",
+        "Find all integer pairs (a,b) with a+b=−2 and ab=−15."
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Algebraic expressions and equations",
+      "physical_pages_modified": [
+        99,
+        100
+      ],
+      "tasks": [
+        "Simplify 4(2x−3)−3(x+5), then evaluate at x=−2.",
+        "Plan A costs 2,500+600d FCFA; Plan B costs 4,300+450d. Find the break-even distance d.",
+        "Solve 3(2x−1)=2(x+5)+7 and check by substitution.",
+        "The perimeter of a rectangle is 50 cm. Its length is 5 cm more than twice its width. Find its dimensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Numerical patterns and generalisation",
+      "physical_pages_modified": [
+        120,
+        121
+      ],
+      "tasks": [
+        "Find the nth term of 11,17,23,… and determine whether 305 is a term.",
+        "Stage n has a row of n squares sharing sides. Find the number of matchsticks and explain your rule.",
+        "Compare aₙ=5n+2 and bₙ=3n+20. Find when they are equal and which is greater afterwards.",
+        "A sequence starts 2,6,12,20,30. Use differences to find a formula and predict term 50."
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "2D geometry: angles, perimeter and area",
+      "physical_pages_modified": [
+        144,
+        145
+      ],
+      "tasks": [
+        "The angles of a quadrilateral are x, 2x, 3x and 4x. Find all angles.",
+        "A running track is a rectangle 60 m by 30 m with a semicircle on each short end. Find perimeter and area in terms of π.",
+        "A triangle has area 54 cm² and base 12 cm. A similar triangle has scale factor 3/2. Find its height and area.",
+        "A rectangle has area 96 cm² and integer side lengths. Which dimensions minimise perimeter? Justify by checking factor pairs."
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "3D geometry: solids, surface area and volume",
+      "physical_pages_modified": [
+        165,
+        166
+      ],
+      "tasks": [
+        "Find total surface area and volume of a cylinder of radius 3 cm and height 10 cm, in exact form.",
+        "A tank 1.2 m×0.8 m×0.75 m is 65% full. How many litres does it contain?",
+        "A cube’s side doubles. Explain the factors by which surface area and volume change.",
+        "A closed cuboid has volume 216 cm³ and integer sides. Compare 6×6×6 and 3×6×12 to find which uses less material."
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Transformations and symmetry",
+      "physical_pages_modified": [
+        185,
+        186
+      ],
+      "tasks": [
+        "Translate A(−2,3) by vector (5,−4), then reflect the image in the y-axis.",
+        "Triangle vertices (1,1),(5,1),(1,3) are enlarged scale factor −1/2 about the origin. Give image coordinates.",
+        "Describe a single transformation mapping (x,y) to (−y,x). State its invariant point.",
+        "Two successive reflections are in parallel vertical lines x=1 and x=4. Describe their combined transformation and justify with one test point."
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Probability and simulation",
+      "physical_pages_modified": [
+        204,
+        205
+      ],
+      "tasks": [
+        "A bag has 5 red, 3 blue and 2 green counters. Find P(not blue) and P(red or green).",
+        "Two fair coins are tossed. List the sample space and find P(exactly one head).",
+        "A game wins 4 points with probability 1/3 and loses 1 point otherwise. Find expected score and assess fairness.",
+        "A biased spinner gives P(A)=2P(B)=4P(C). Find all three probabilities."
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Univariate data",
+      "physical_pages_modified": [
+        219,
+        220
+      ],
+      "tasks": [
+        "For 3,5,6,7,8,8,9,12,14 find median, quartiles and IQR using the median-excluded convention.",
+        "Class A has median 68 and IQR 12; Class B median 72 and IQR 25. Compare centre and spread without claiming more than the summaries show.",
+        "The mean of eight values is 14. One value recorded as 31 should be 13. Find the corrected mean.",
+        "Construct seven integer data values with range 10, median 8, mean 8 and no mode."
+      ]
+    }
+  ],
+  "3": [
+    {
+      "chapter": 1,
+      "title": "The real number system",
+      "physical_pages_modified": [
+        34,
+        35
+      ],
+      "tasks": [
+        "Classify −7, 0.125, √11 and π as integer, rational or irrational, using the most specific set.",
+        "Give rational bounds of width 0.01 containing √7.",
+        "Prove that 0.272727… is rational by converting it to a fraction.",
+        "Prove that √3 is irrational using contradiction and divisibility by 3."
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Powers, roots and scientific notation",
+      "physical_pages_modified": [
+        51,
+        52
+      ],
+      "tasks": [
+        "Simplify (3x⁴y⁻²)(6x⁻¹y⁵) with positive exponents.",
+        "A cell is 7.2×10⁻⁶ m wide. How many fit across 3.6 cm?",
+        "Compare 5³⁰ and 3⁵⁰ without fully evaluating; justify using a common exponent.",
+        "Solve 2^(x+1)=8^(2x−1)."
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Functions, expressions and algebraic reasoning",
+      "physical_pages_modified": [
+        68,
+        69
+      ],
+      "tasks": [
+        "For f(x)=2x²−3, find f(−2), f(a+1), and solve f(x)=15.",
+        "Factor fully 6x²−15x and hence solve 6x²−15x=0.",
+        "A function maps x→3x−4. Explain why every real output has exactly one real input and find the inverse rule.",
+        "Find integers a,b such that x²+ax+b has roots differing by 5 and product −14."
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Linear relationships and graphs",
+      "physical_pages_modified": [
+        88,
+        89
+      ],
+      "tasks": [
+        "Find the equation of the line through (−2,5) and (4,−7).",
+        "A tank contains 820 L and drains at 35 L/min. Write a model and find when 120 L remain.",
+        "Lines y=3x−4 and 6x−2y=8 look different. Determine their relationship algebraically.",
+        "Find k so the line kx+2y=7 is perpendicular to y=4x−1."
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Equations, inequalities and systems",
+      "physical_pages_modified": [
+        108,
+        109
+      ],
+      "tasks": [
+        "Solve 4−3(2x−5)≤25 and show the solution on a number line.",
+        "Adult tickets cost 4,000 FCFA and student tickets 2,500 FCFA. 86 tickets earn 275,000 FCFA. Find each number.",
+        "Classify the system 2x+3y=7 and 4x+6y=15 as one, none or infinitely many solutions. Explain.",
+        "Find all integer points satisfying x≥0, y≥0, x+y≤6 and 2x+y≥8."
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Transformations, congruence and symmetry",
+      "physical_pages_modified": [
+        132,
+        133
+      ],
+      "tasks": [
+        "Rotate P(3,−1) 90° clockwise about (1,2).",
+        "State the minimum data needed for SSS, SAS and ASA congruence tests.",
+        "Explain why AAA proves similarity but not congruence, with a counterexample.",
+        "A translation followed by its inverse leaves every point fixed. Show this using vectors."
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Similarity, proof and trigonometry",
+      "physical_pages_modified": [
+        153,
+        154
+      ],
+      "tasks": [
+        "A right triangle has legs 9 cm and 12 cm. Find hypotenuse and both acute angles.",
+        "A 1.6 m person casts a 2.4 m shadow while a tree casts 13.5 m. Find tree height.",
+        "Prove that the altitude to the hypotenuse creates two triangles similar to the original.",
+        "From point A, angle of elevation to a tower is 28°. After moving 20 m closer it is 41°. Form equations and find the tower height to 3 s.f."
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Three-dimensional solids and measurement",
+      "physical_pages_modified": [
+        178,
+        179
+      ],
+      "tasks": [
+        "Find volume and surface area of a cone with r=5 cm, h=12 cm.",
+        "A 330 mL cylindrical can has radius 3.2 cm. Find its required internal height.",
+        "Measurements 8.4 cm and 5.2 cm are to nearest 0.1 cm. Give error bounds for their product.",
+        "A sphere fits exactly inside a cube. Find the fraction of cube volume occupied by the sphere."
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Bivariate data, correlation and causation",
+      "physical_pages_modified": [
+        204,
+        205
+      ],
+      "tasks": [
+        "For points (1,2),(2,4),(3,5),(4,8), describe direction, form and strength without calculating r.",
+        "A line of best fit is y=1.8x+12 for study hours x and score y. Interpret both parameters and predict at x=7.",
+        "Ice-cream sales and sunburn cases correlate. Explain a plausible confounder and why correlation is not causation.",
+        "A point far to the right follows the trend. Explain how high leverage can strengthen or weaken a fitted correlation."
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Probability, sampling and evidence",
+      "physical_pages_modified": [
+        229,
+        230
+      ],
+      "tasks": [
+        "A bag has 4 red and 6 blue. Two are drawn without replacement. Find P(two red).",
+        "A test has sensitivity 90% and specificity 95%. In 1,000 people, prevalence is 2%. Build a frequency tree and find P(disease|positive).",
+        "Compare a voluntary online poll with a stratified random sample for estimating school opinion.",
+        "Events A,B have P(A)=0.6, P(B)=0.5, P(A∪B)=0.8. Find P(A∩B), P(A|B), and test independence."
+      ]
+    }
+  ],
+  "4": [
+    {
+      "chapter": 1,
+      "title": "Number Foundations: Exponents, Surds and Accuracy",
+      "physical_pages_modified": [
+        36,
+        37
+      ],
+      "tasks": [
+        "Simplify √72−2√8 and rationalise 5/√3.",
+        "A length is 12.4 cm to nearest 0.1 cm. Give bounds for the area of a square with this side.",
+        "Show that (2+√3)(2−√3)=1 and explain the conjugate strategy.",
+        "Find all integers n for which √(n+6)−√n=1."
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Algebraic Expressions and Factorisation",
+      "physical_pages_modified": [
+        63,
+        64
+      ],
+      "tasks": [
+        "Factor fully 6x³−15x²−36x.",
+        "Simplify (x²−9)/(x²−x−6), stating exclusions.",
+        "Prove (a+b)²−(a−b)²=4ab geometrically or algebraically.",
+        "Factor x⁴−5x²+4 completely and solve when it is zero."
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Linear Equations, Inequalities and Systems",
+      "physical_pages_modified": [
+        87,
+        88
+      ],
+      "tasks": [
+        "Solve |2x−5|<7.",
+        "A blend contains coffee at 3,200 and 5,000 FCFA/kg. Make 18 kg worth 4,200 FCFA/kg. Find masses.",
+        "For what k does kx+2y=5 and 6x+4y=9 have no solution?",
+        "Find all integer solutions of 3x+5y=41 with x,y≥0."
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Functions, Coordinates and Linear Models",
+      "physical_pages_modified": [
+        111,
+        112
+      ],
+      "tasks": [
+        "Find the line perpendicular to 2x−3y=12 through (4,−1).",
+        "A fare is linear: 3 km costs 2,100 FCFA and 11 km costs 5,700 FCFA. Model cost and interpret intercept.",
+        "Find domain and range of f(x)=√(9−x²).",
+        "A line cuts positive axes at (a,0),(0,b) and passes through (3,4). Find integer a,b>0 with smallest a+b."
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Quadratic Expressions and Equations",
+      "physical_pages_modified": [
+        133,
+        134
+      ],
+      "tasks": [
+        "Solve 3x²−5x−2=0 by factorisation and formula.",
+        "A rectangle has area 96 m² and length 4 m more than width. Find dimensions.",
+        "Determine k so x²−6x+k=0 has one repeated root; connect to vertex form.",
+        "If roots of x²−7x+10=0 are α,β, find α²+β² without solving."
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Quadratic Functions and Graphical Reasoning",
+      "physical_pages_modified": [
+        155,
+        156
+      ],
+      "tasks": [
+        "Write y=2x²−8x+3 in vertex form and state vertex and axis.",
+        "A projectile has h=−5t²+20t+1. Find maximum height and when it hits ground.",
+        "Compare y=x² and y=(x−3)²−4 as transformations.",
+        "Find the range of k for which y=x²+kx+9 has no real zeros."
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Patterns, Sequences and Generalisation",
+      "physical_pages_modified": [
+        176,
+        177
+      ],
+      "tasks": [
+        "Find the nth term of 4,11,22,37,56 using differences.",
+        "A theatre has 24 seats in row 1 and 4 more each row. Find row 20 and total through row 20.",
+        "Given Sₙ=3n²+2n, derive uₙ and classify the sequence.",
+        "A sequence satisfies u₁=5, uₙ₊₁=2uₙ−3. Transform vₙ=uₙ−3 and find explicit uₙ."
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Growth and Financial Mathematics",
+      "physical_pages_modified": [
+        198,
+        199
+      ],
+      "tasks": [
+        "An investment of 250,000 FCFA grows 6% annually for 4 years. Find its value.",
+        "A machine depreciates 18% yearly from 8,000,000 FCFA. When does it first fall below 4,000,000?",
+        "Explain why +12% then −12% is a net decrease and calculate it.",
+        "Two plans start at 100,000 FCFA. A adds 20,000 yearly; B grows 12% yearly. Find the first year B exceeds A."
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Congruence, Similarity and Transformations",
+      "physical_pages_modified": [
+        225,
+        226
+      ],
+      "tasks": [
+        "A shape is enlarged scale factor −2 about (1,−1). Find the image of P(4,3).",
+        "Similar solids have surface areas 54 and 150 cm². Find linear scale factor and volume ratio.",
+        "Prove diagonals of a parallelogram bisect each other using congruent triangles.",
+        "Find the centre of enlargement mapping A(1,2)→A′(5,8) and B(3,2)→B′(9,8)."
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Pythagoras, Trigonometry and Measurement",
+      "physical_pages_modified": [
+        256,
+        257
+      ],
+      "tasks": [
+        "A cuboid is 6×8×24 cm. Find its space diagonal.",
+        "From a point 45 m from a tower, elevation is 37°. Find height to 3 s.f.",
+        "Derive tan θ=sin θ/cos θ from right-triangle definitions.",
+        "A ship sails 18 km east then 24 km on bearing 150°. Find displacement and bearing from start."
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Surface Area and Volume",
+      "physical_pages_modified": [
+        285,
+        286
+      ],
+      "tasks": [
+        "Find volume and total area of a hemisphere radius 6 cm including its base.",
+        "A cone and cylinder share radius and height. Compare volumes and explain.",
+        "A solid is enlarged by k. Its volume rises 72.8%. Find k and area percentage rise.",
+        "A closed cylinder has volume 500π cm³. Express area in r and find the radius minimising it."
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Statistics: Distributions and Data",
+      "physical_pages_modified": [
+        319,
+        320
+      ],
+      "tasks": [
+        "For grouped classes 0–10,10–20,20–30 with frequencies 4,9,7 estimate the mean.",
+        "Two box plots have medians 52,55 and IQRs 8,20. Make a careful comparison.",
+        "Explain why median and IQR may be preferable for skewed income data.",
+        "The mean of 12 values is 18 and standard deviation 4. Every value is transformed by y=3x−5. Find new mean and standard deviation."
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "Probability: Combined Events",
+      "physical_pages_modified": [
+        348,
+        349
+      ],
+      "tasks": [
+        "A fair die is rolled twice. Find P(sum 8).",
+        "A factory has 3% defects; a check catches 92% of defects and falsely flags 4% of good items. Find P(defect|flagged).",
+        "Give an example of mutually exclusive events that are not independent and prove it numerically.",
+        "Without replacement from 5 red,4 blue,3 green, find P(three drawn are all different)."
+      ]
+    }
+  ],
+  "5": [
+    {
+      "chapter": 1,
+      "title": "Polynomials, Factor Theorem and Algebraic Fractions",
+      "physical_pages_modified": [
+        31,
+        32
+      ],
+      "tasks": [
+        "Divide 2x³−3x²−11x+6 by x−3 and factor completely.",
+        "Solve (x+1)/(x−2)=3/(x+2), stating exclusions.",
+        "Prove the remainder on division by x−a is f(a).",
+        "Find k so x³−4x²+kx+6 has factor x−2, then factor completely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Functions: Transformations, Composites and Inverses",
+      "physical_pages_modified": [
+        51,
+        52
+      ],
+      "tasks": [
+        "For f(x)=2x−3 and g(x)=x²+1 find f∘g and g∘f.",
+        "Find inverse of h(x)=(3x+4)/(x−2), with restrictions.",
+        "Explain why f(x)=x² on real numbers has no inverse function, then restrict its domain.",
+        "Solve f(f(x))=x for f(x)=1−2x."
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Exponential and Logarithmic Functions",
+      "physical_pages_modified": [
+        71,
+        72
+      ],
+      "tasks": [
+        "Solve 3^(2x−1)=20 using logarithms.",
+        "A culture grows continuously from 500 at 18% per hour. Find population after 7 h and doubling time.",
+        "Derive log_b(MN)=log_b M+log_b N from exponent definitions.",
+        "Solve log₂x+log₂(x−2)=3, checking domain."
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Sequences and Series",
+      "physical_pages_modified": [
+        96,
+        97
+      ],
+      "tasks": [
+        "An arithmetic sequence has u₄=17,u₁₀=41. Find u₁,d and S₂₅.",
+        "An annuity pays 50,000 FCFA at each year-end into 6% interest for 8 years. Find value immediately after final payment.",
+        "A geometric series converges to 30 and first term is 12. Find r and justify convergence.",
+        "Given u₁=4,uₙ₊₁=uₙ+2n+3, derive an explicit formula."
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Quadratic Inequalities and Linear Programming",
+      "physical_pages_modified": [
+        117,
+        118
+      ],
+      "tasks": [
+        "Solve x²−5x−14≤0.",
+        "Maximise P=40x+55y subject to x≥0,y≥0,2x+y≤18,x+3y≤21.",
+        "Explain why a linear objective over a bounded polygon reaches an optimum at a vertex.",
+        "Repeat the optimisation for integer x,y and state whether the continuous optimum is feasible."
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Circle Geometry and Geometric Proof",
+      "physical_pages_modified": [
+        138,
+        139
+      ],
+      "tasks": [
+        "An angle at the centre subtending chord AB is 136°. Find the angle at the circumference on the same arc.",
+        "From external point P, tangent PT=12 and secant segments PA=8, PB=x. Find x.",
+        "Prove opposite angles of a cyclic quadrilateral sum to 180°.",
+        "Two chords intersect with segments 3,8 and 4,x. Find x and identify the theorem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Sine and Cosine Rules; Trigonometry in Three Dimensions",
+      "physical_pages_modified": [
+        158,
+        159
+      ],
+      "tasks": [
+        "In triangle ABC, a=8,b=11,C=47°. Find c and area.",
+        "Town B is due east of town A, 34 km away. Bearings of a tower from A and B are 062° and 318°. Form a triangle and find both town-to-tower distances.",
+        "Explain the ambiguous SSA case using the sine rule and sketch possibilities.",
+        "A cuboid 5×7×9 has a line from one vertex to the opposite. Find its length and angle with the base."
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Vectors and Matrices",
+      "physical_pages_modified": [
+        180,
+        181
+      ],
+      "tasks": [
+        "Given a=(2,−1), b=(5,3), find 3a−2b and |a+b|.",
+        "Find the matrix for reflection in y=x followed by stretch factor 2 parallel to x-axis.",
+        "Use vectors to prove the segment joining midpoints of two triangle sides is parallel to the third.",
+        "Find A⁻¹ for A=[[2,3],[1,2]] and solve A(x,y)^T=(7,4)^T."
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Statistics: Dispersion, Correlation and Regression",
+      "physical_pages_modified": [
+        203,
+        204
+      ],
+      "tasks": [
+        "Find population variance and standard deviation of 2,4,4,6.",
+        "A regression line y=12.4+0.83x models x within 10–40. Predict at 25 and explain why x=100 is risky.",
+        "Explain how an outlier can alter Pearson r and the regression line.",
+        "If every x is doubled and every y is changed to 3y−5, state effects on r, regression slope and intercept."
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Probability: Conditional Probability and Counting",
+      "physical_pages_modified": [
+        224,
+        225
+      ],
+      "tasks": [
+        "From 10 students choose president, secretary and treasurer. How many arrangements?",
+        "P(A)=0.4,P(B|A)=0.7,P(B|Aᶜ)=0.2. Find P(B) and P(A|B).",
+        "Prove Bayes’ formula from the definition of conditional probability.",
+        "How many 6-digit codes use exactly three distinct digits, with each used at least once?"
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Capstone: A Mathematical Modelling Project",
+      "physical_pages_modified": [
+        244,
+        245
+      ],
+      "tasks": [
+        "Write a precise question for modelling daily water demand at a school. Identify response and explanatory variables.",
+        "Compare linear D=420+18n and exponential D=420(1.035)^n for n=10; state assumptions.",
+        "Design a residual check that could falsify either model.",
+        "Create a constrained optimisation model for tank size including demand uncertainty, cost and service reliability. Define every symbol."
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Cumulative Revision and the Transition to DP Mathematics",
+      "physical_pages_modified": [
+        256,
+        257
+      ],
+      "tasks": [
+        "Solve x²−4x−5=0, then use roots to evaluate their reciprocal sum.",
+        "A cone has fixed volume 300π. Express area in one variable and describe an optimisation route.",
+        "A claim says correlation r=0.92 proves causation. Write a mathematically rigorous critique and name two checks.",
+        "For f(x)=ln x−x/3, show there are two positive roots and locate each to intervals of width 0.1."
+      ]
+    }
+  ]
+}
