@@ -1,0 +1,369 @@
+{
+  "final_pdfs": {
+    "MYP_Mathematics_1_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 261,
+      "nearly_blank_pages": [],
+      "min_text_chars": 408,
+      "median_text_chars": 2241
+    },
+    "MYP_Mathematics_2_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 283,
+      "nearly_blank_pages": [],
+      "min_text_chars": 106,
+      "median_text_chars": 1976
+    },
+    "MYP_Mathematics_3_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 295,
+      "nearly_blank_pages": [],
+      "min_text_chars": 421,
+      "median_text_chars": 2220
+    },
+    "MYP_Mathematics_4_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 485,
+      "nearly_blank_pages": [
+        194,
+        218,
+        248,
+        312,
+        348,
+        400
+      ],
+      "min_text_chars": 0,
+      "median_text_chars": 2085
+    },
+    "MYP_Mathematics_5_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 365,
+      "nearly_blank_pages": [
+        58,
+        108,
+        130,
+        176,
+        200,
+        224,
+        248,
+        280,
+        356
+      ],
+      "min_text_chars": 0,
+      "median_text_chars": 2574
+    }
+  },
+  "original_pdfs": {
+    "MYP-Mathematics-1-Student-Coursebook.pdf": {
+      "pages": 240,
+      "nearly_blank_pages": [],
+      "min_text_chars": 408,
+      "median_text_chars": 2340
+    },
+    "MYP-Mathematics-2-Student-Coursebook.pdf": {
+      "pages": 260,
+      "nearly_blank_pages": [],
+      "min_text_chars": 106,
+      "median_text_chars": 2066
+    },
+    "MYP-Mathematics-3-Student-Coursebook.pdf": {
+      "pages": 274,
+      "nearly_blank_pages": [],
+      "min_text_chars": 421,
+      "median_text_chars": 2314
+    },
+    "MYP_Mathematics_4_Student_Coursebook.pdf": {
+      "pages": 458,
+      "nearly_blank_pages": [
+        181,
+        203,
+        231,
+        291,
+        325,
+        373
+      ],
+      "min_text_chars": 0,
+      "median_text_chars": 2130
+    },
+    "MYP_Mathematics_5_Student_Coursebook.pdf": {
+      "pages": 340,
+      "nearly_blank_pages": [
+        55,
+        101,
+        121,
+        163,
+        185,
+        207,
+        229,
+        257,
+        331
+      ],
+      "min_text_chars": 0,
+      "median_text_chars": 2640
+    }
+  },
+  "module_pdfs": {
+    "MYP1_chapter_01.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_02.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_03.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_04.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_05.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_06.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_07.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_08.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_09.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP1_chapter_10.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_01.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_02.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_03.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_04.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_05.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_06.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_07.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_08.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_09.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_10.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP2_chapter_11.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_01.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_02.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_03.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_04.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_05.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_06.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_07.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_08.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_09.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP3_chapter_10.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_01.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_02.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_03.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_04.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_05.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_06.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_07.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_08.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_09.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_10.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_11.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_12.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP4_chapter_13.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_01.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_02.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_03.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_04.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_05.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_06.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_07.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_08.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_09.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_10.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_11.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    },
+    "MYP5_chapter_12.pdf": {
+      "pages": 2,
+      "missing_labels": []
+    }
+  },
+  "rendered_pages": 3261,
+  "text_block_bounds_issues": [],
+  "status": "PASS",
+  "final_rebuild_render": {
+    "MYP_Mathematics_1_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 261,
+      "nearly_blank_pages": []
+    },
+    "MYP_Mathematics_2_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 283,
+      "nearly_blank_pages": []
+    },
+    "MYP_Mathematics_3_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 295,
+      "nearly_blank_pages": []
+    },
+    "MYP_Mathematics_4_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 485,
+      "nearly_blank_pages": [
+        194,
+        218,
+        248,
+        312,
+        348,
+        400
+      ]
+    },
+    "MYP_Mathematics_5_Student_Coursebook_Upgraded_2026.pdf": {
+      "pages": 365,
+      "nearly_blank_pages": [
+        58,
+        108,
+        130,
+        176,
+        200,
+        224,
+        248,
+        280,
+        356
+      ]
+    }
+  },
+  "latest_rendered_pages": 1801
+}
