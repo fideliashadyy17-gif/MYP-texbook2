@@ -1,0 +1,73 @@
+{
+  "status": "PASS",
+  "issues": [],
+  "books": {
+    "1": {
+      "pages": 250,
+      "expected": 250,
+      "worked_examples": 10,
+      "integrated_practice_pages": 20,
+      "summary_panels": 10,
+      "reference_reconstruction_pages": 0,
+      "forbidden_exam_pages": [],
+      "nearly_blank_pages": []
+    },
+    "2": {
+      "pages": 275,
+      "expected": 275,
+      "worked_examples": 11,
+      "integrated_practice_pages": 22,
+      "summary_panels": 11,
+      "reference_reconstruction_pages": 4,
+      "forbidden_exam_pages": [],
+      "nearly_blank_pages": []
+    },
+    "3": {
+      "pages": 286,
+      "expected": 286,
+      "worked_examples": 10,
+      "integrated_practice_pages": 20,
+      "summary_panels": 10,
+      "reference_reconstruction_pages": 2,
+      "forbidden_exam_pages": [],
+      "nearly_blank_pages": []
+    },
+    "4": {
+      "pages": 473,
+      "expected": 473,
+      "worked_examples": 13,
+      "integrated_practice_pages": 26,
+      "summary_panels": 13,
+      "reference_reconstruction_pages": 2,
+      "forbidden_exam_pages": [],
+      "nearly_blank_pages": [
+        188,
+        211,
+        240,
+        302,
+        337,
+        388
+      ]
+    },
+    "5": {
+      "pages": 354,
+      "expected": 354,
+      "worked_examples": 12,
+      "integrated_practice_pages": 24,
+      "summary_panels": 12,
+      "reference_reconstruction_pages": 2,
+      "forbidden_exam_pages": [],
+      "nearly_blank_pages": [
+        57,
+        105,
+        128,
+        172,
+        195,
+        218,
+        241,
+        345
+      ]
+    }
+  },
+  "rendered_pages": 1638
+}

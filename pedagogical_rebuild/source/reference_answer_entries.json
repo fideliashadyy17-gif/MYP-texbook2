@@ -1,0 +1,112 @@
+[
+  {
+    "level": 2,
+    "chapter": 1,
+    "title": "Source-informed practice \u00b7 Ratio",
+    "answers": [
+      "3:8.",
+      "2,000 FCFA and 1,600 FCFA.",
+      "48 boys, 60 girls; 108 singers.",
+      "7.5 L red, 10 L blue, 2.5 L white."
+    ]
+  },
+  {
+    "level": 2,
+    "chapter": 2,
+    "title": "Source-informed practice \u00b7 Direct proportion",
+    "answers": [
+      "k=2.5; y=35.",
+      "Each y/x=3.5, so y=3.5x.",
+      "Direct proportion has zero intercept; gradient 3.5; y=35.",
+      "4,500 FCFA; unit price must remain constant."
+    ]
+  },
+  {
+    "level": 2,
+    "chapter": 3,
+    "title": "Source-informed practice \u00b7 Rates",
+    "answers": [
+      "72 beats/min.",
+      "24 pages/min; 360 pages.",
+      "80 km/h; 15 min=0.25 h, not 0.15 h.",
+      "1,400 versus about 1,317.65 FCFA/kg; second saves about 82.35 FCFA/kg."
+    ]
+  },
+  {
+    "level": 2,
+    "chapter": 10,
+    "title": "Source-informed practice \u00b7 Probability",
+    "answers": [
+      "1/2 and 1/2.",
+      "170 germinate; 30 do not.",
+      "38/180=19/90\u22480.211 versus 1/6\u22480.167; this is evidence but not proof without more trials.",
+      "9/40."
+    ]
+  },
+  {
+    "level": 3,
+    "chapter": 1,
+    "title": "Source-informed practice \u00b7 Real numbers",
+    "answers": [
+      "\u221a49=7 integer; \u221a18 irrational; 0.272727\u2026=3/11 rational; \u03c0 irrational.",
+      "For example \u221a17, because 16<17<25.",
+      "\u221a2 and \u221a2 are irrational but their product is 2, rational.",
+      "d=\u221a(8+8)=\u221a16=4 cm."
+    ]
+  },
+  {
+    "level": 3,
+    "chapter": 2,
+    "title": "Source-informed practice \u00b7 Powers and scientific notation",
+    "answers": [
+      "1.8\u00d710^4.",
+      "4\u00d710^-8.",
+      "3,3/2,3/4,3/8,3/16; Un=3(1/2)^(n-1).",
+      "They are equal because 8^10=(2^3)^10=2^30."
+    ]
+  },
+  {
+    "level": 4,
+    "chapter": 12,
+    "title": "Source-informed practice \u00b7 Statistics I",
+    "answers": [
+      "Mode 2; median 2; range 4; mean 2.",
+      "Original: mean16, median15, IQR4. With64: mean22, median15.5, IQR5.5.",
+      "Mean=(112+x)/8; ordered middle positions and quartile positions are unchanged for x\u226522.",
+      "P2: \u03bc=15,\u03c3=\u221a5. P3: \u03bc=15,\u03c3=3\u221a5. Generally \u03bcw=a\u03bcx+b and \u03c3w=a\u03c3x."
+    ]
+  },
+  {
+    "level": 4,
+    "chapter": 12,
+    "title": "Source-informed practice \u00b7 Statistics II",
+    "answers": [
+      "Estimated mean 7.5 kWh.",
+      "\u03bc=500 mL; \u03c3=\u221a4.8\u22482.19 mL.",
+      "All values in a class are represented by one midpoint; narrower classes usually reduce possible approximation error.",
+      "All: mean28, median22. Without76: mean22, median22; use median when retaining the genuine outlier in audit data."
+    ]
+  },
+  {
+    "level": 5,
+    "chapter": 4,
+    "title": "Source-informed practice \u00b7 Sequences and series I",
+    "answers": [
+      "u1=5,u3=25,u8=180.",
+      "un=53\u22127n; \u221245 is u14; first negative is u8=\u22123.",
+      "d=5,u1=3,S20=1,010.",
+      "r=\u22122,u1=12,un=12(\u22122)^(n\u22121); \u22123072=u9."
+    ]
+  },
+  {
+    "level": 5,
+    "chapter": 4,
+    "title": "Source-informed practice \u00b7 Sequences and series II",
+    "answers": [
+      "n=20; S20=1,240.",
+      "n=7; S7=635.",
+      "u1=7 and un=6n+1; common difference6.",
+      "v(n+1)=3vn, v1=3, so vn=3^n and un=3^n+2."
+    ]
+  }
+]

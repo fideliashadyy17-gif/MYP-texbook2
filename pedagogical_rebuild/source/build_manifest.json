@@ -1,0 +1,233 @@
+{
+  "1": {
+    "output": "pedagogical_rebuild/complete_books/MYP_Mathematics_1_Student_Coursebook_Pedagogically_Integrated_2026.pdf",
+    "source_pages": 240,
+    "final_pages": 250,
+    "chapters": 10,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary_pages_modified": [
+      34,
+      52,
+      72,
+      94,
+      110,
+      129,
+      154,
+      173,
+      192,
+      215
+    ],
+    "reference_reconstruction_pages": []
+  },
+  "2": {
+    "output": "pedagogical_rebuild/complete_books/MYP_Mathematics_2_Student_Coursebook_Pedagogically_Integrated_2026.pdf",
+    "source_pages": 260,
+    "final_pages": 275,
+    "chapters": 11,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "summary_pages_modified": [
+      33,
+      47,
+      63,
+      80,
+      99,
+      119,
+      144,
+      164,
+      184,
+      203,
+      219
+    ],
+    "reference_reconstruction_pages": [
+      {
+        "chapter": 1,
+        "key": "(2, 1)",
+        "source": "MYP2 Term 1 papers A/B",
+        "after_original_page": 34
+      },
+      {
+        "chapter": 2,
+        "key": "(2, 2)",
+        "source": "MYP2 Term 1 papers A/B",
+        "after_original_page": 49
+      },
+      {
+        "chapter": 3,
+        "key": "(2, 3)",
+        "source": "MYP2 Term 1 papers A/B",
+        "after_original_page": 65
+      },
+      {
+        "chapter": 10,
+        "key": "(2, 10)",
+        "source": "MYP2 Term 1 papers A/B",
+        "after_original_page": 205
+      }
+    ]
+  },
+  "3": {
+    "output": "pedagogical_rebuild/complete_books/MYP_Mathematics_3_Student_Coursebook_Pedagogically_Integrated_2026.pdf",
+    "source_pages": 274,
+    "final_pages": 286,
+    "chapters": 10,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary_pages_modified": [
+      34,
+      51,
+      68,
+      90,
+      109,
+      133,
+      154,
+      179,
+      205,
+      230
+    ],
+    "reference_reconstruction_pages": [
+      {
+        "chapter": 1,
+        "key": "(3, 1)",
+        "source": "Grade 8 MYP 3 assessment",
+        "after_original_page": 35
+      },
+      {
+        "chapter": 2,
+        "key": "(3, 2)",
+        "source": "Grade 8 MYP 3 assessment",
+        "after_original_page": 52
+      }
+    ]
+  },
+  "4": {
+    "output": "pedagogical_rebuild/complete_books/MYP_Mathematics_4_Student_Coursebook_Pedagogically_Integrated_2026.pdf",
+    "source_pages": 458,
+    "final_pages": 473,
+    "chapters": 13,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "summary_pages_modified": [
+      41,
+      67,
+      91,
+      115,
+      137,
+      159,
+      180,
+      202,
+      230,
+      261,
+      290,
+      324,
+      353
+    ],
+    "reference_reconstruction_pages": [
+      {
+        "chapter": 12,
+        "key": "(4, 12)",
+        "source": "Grade 9 MYP 4 assessment",
+        "after_original_page": 325
+      },
+      {
+        "chapter": 12,
+        "key": "(4, 12.1)",
+        "source": "Grade 9 MYP 4 assessment",
+        "after_original_page": 325
+      }
+    ]
+  },
+  "5": {
+    "output": "pedagogical_rebuild/complete_books/MYP_Mathematics_5_Student_Coursebook_Pedagogically_Integrated_2026.pdf",
+    "source_pages": 340,
+    "final_pages": 354,
+    "chapters": 12,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary_pages_modified": [
+      35,
+      54,
+      75,
+      100,
+      120,
+      141,
+      162,
+      184,
+      206,
+      228,
+      245,
+      256
+    ],
+    "reference_reconstruction_pages": [
+      {
+        "chapter": 4,
+        "key": "(5, 4)",
+        "source": "Grade 10 MYP 5 sequence assessments",
+        "after_original_page": 101
+      },
+      {
+        "chapter": 4,
+        "key": "(5, 4.1)",
+        "source": "Grade 10 MYP 5 sequence assessments",
+        "after_original_page": 101
+      }
+    ]
+  }
+}
