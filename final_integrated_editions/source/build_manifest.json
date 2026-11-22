@@ -1,0 +1,203 @@
+{
+  "1": {
+    "output": "final_integrated_editions/complete_books/MYP_Mathematics_1_Student_Coursebook_Final_Integrated_2026.pdf",
+    "source_pages": 240,
+    "final_pages": 250,
+    "chapters": 10,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary_pages_modified": [
+      34,
+      52,
+      72,
+      94,
+      110,
+      129,
+      154,
+      173,
+      192,
+      215
+    ],
+    "exact_exam_facsimiles": []
+  },
+  "2": {
+    "output": "final_integrated_editions/complete_books/MYP_Mathematics_2_Student_Coursebook_Final_Integrated_2026.pdf",
+    "source_pages": 260,
+    "final_pages": 275,
+    "chapters": 11,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "summary_pages_modified": [
+      33,
+      47,
+      63,
+      80,
+      99,
+      119,
+      144,
+      164,
+      184,
+      203,
+      219
+    ],
+    "exact_exam_facsimiles": [
+      {
+        "file": "MYP2 1st Term examination.pdf",
+        "pages": 2,
+        "after_original_page": 205
+      },
+      {
+        "file": "MYP2 1st Term examination B.pdf",
+        "pages": 2,
+        "after_original_page": 205
+      }
+    ]
+  },
+  "3": {
+    "output": "final_integrated_editions/complete_books/MYP_Mathematics_3_Student_Coursebook_Final_Integrated_2026.pdf",
+    "source_pages": 274,
+    "final_pages": 286,
+    "chapters": 10,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary_pages_modified": [
+      34,
+      51,
+      68,
+      90,
+      109,
+      133,
+      154,
+      179,
+      205,
+      230
+    ],
+    "exact_exam_facsimiles": [
+      {
+        "file": "Grade_8_MYP_3_Mathematics_Summative_Assessment_Version_B.pdf",
+        "pages": 2,
+        "after_original_page": 70
+      }
+    ]
+  },
+  "4": {
+    "output": "final_integrated_editions/complete_books/MYP_Mathematics_4_Student_Coursebook_Final_Integrated_2026.pdf",
+    "source_pages": 458,
+    "final_pages": 473,
+    "chapters": 13,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "summary_pages_modified": [
+      41,
+      67,
+      91,
+      115,
+      137,
+      159,
+      180,
+      202,
+      230,
+      261,
+      290,
+      324,
+      353
+    ],
+    "exact_exam_facsimiles": [
+      {
+        "file": "Grade_9_MYP_4_Mathematics_Summative_Assessment.pdf",
+        "pages": 2,
+        "after_original_page": 325
+      }
+    ]
+  },
+  "5": {
+    "output": "final_integrated_editions/complete_books/MYP_Mathematics_5_Student_Coursebook_Final_Integrated_2026.pdf",
+    "source_pages": 340,
+    "final_pages": 356,
+    "chapters": 12,
+    "worked_example_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary_pages_modified": [
+      35,
+      54,
+      75,
+      100,
+      120,
+      141,
+      162,
+      184,
+      206,
+      228,
+      245,
+      256
+    ],
+    "exact_exam_facsimiles": [
+      {
+        "file": "Grade_10_MYP_5_Mathematics_Summative_Assessment.pdf",
+        "pages": 2,
+        "after_original_page": 101
+      },
+      {
+        "file": "GRADE 10 myp5 exam 1st term version B.pdf",
+        "pages": 2,
+        "after_original_page": 101
+      }
+    ]
+  }
+}

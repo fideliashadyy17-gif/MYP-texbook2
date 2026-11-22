@@ -1,0 +1,15 @@
+{
+  "note": "Book-specific accents sampled from the established visual identities; neutral paper and body colours remain constant. Mathematical mini-diagrams are generated as vector paths by source/build_complete_books.py.",
+  "paper": "#FBF9F2",
+  "body": "#1A1F1D",
+  "MYP1_accent": "#B85C38",
+  "MYP2_accent": "#147980",
+  "MYP3_accent": "#6657A0",
+  "MYP4_accent": "#0D635D",
+  "MYP5_accent": "#0B4D48",
+  "fonts": {
+    "replacement_body": "DejaVu Sans",
+    "replacement_labels": "DejaVu Sans Bold",
+    "reason": "Open licensed local fonts with full mathematical Unicode coverage; inherited pages retain their embedded original fonts."
+  }
+}
