@@ -1,0 +1,149 @@
+{
+  "status": "PASS",
+  "issues": [],
+  "books": {
+    "1": {
+      "pages": 250,
+      "expected_pages": 250,
+      "worked_example_pages_found": 10,
+      "summary_panels_found": 10,
+      "integrated_practice_pages": 20,
+      "nearly_blank_pages": []
+    },
+    "2": {
+      "pages": 275,
+      "expected_pages": 275,
+      "worked_example_pages_found": 11,
+      "summary_panels_found": 11,
+      "integrated_practice_pages": 22,
+      "nearly_blank_pages": []
+    },
+    "3": {
+      "pages": 286,
+      "expected_pages": 286,
+      "worked_example_pages_found": 10,
+      "summary_panels_found": 10,
+      "integrated_practice_pages": 20,
+      "nearly_blank_pages": []
+    },
+    "4": {
+      "pages": 473,
+      "expected_pages": 473,
+      "worked_example_pages_found": 13,
+      "summary_panels_found": 13,
+      "integrated_practice_pages": 26,
+      "nearly_blank_pages": [
+        188,
+        211,
+        240,
+        302,
+        337,
+        388
+      ]
+    },
+    "5": {
+      "pages": 356,
+      "expected_pages": 356,
+      "worked_example_pages_found": 12,
+      "summary_panels_found": 12,
+      "integrated_practice_pages": 24,
+      "nearly_blank_pages": [
+        57,
+        105,
+        130,
+        174,
+        197,
+        220,
+        243,
+        347
+      ]
+    }
+  },
+  "exact_exam_pages": [
+    {
+      "file": "MYP2 1st Term examination.pdf",
+      "source_page": 1,
+      "final_page": 216,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "MYP2 1st Term examination.pdf",
+      "source_page": 2,
+      "final_page": 217,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "MYP2 1st Term examination B.pdf",
+      "source_page": 1,
+      "final_page": 218,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "MYP2 1st Term examination B.pdf",
+      "source_page": 2,
+      "final_page": 219,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "Grade_8_MYP_3_Mathematics_Summative_Assessment_Version_B.pdf",
+      "source_page": 1,
+      "final_page": 74,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "Grade_8_MYP_3_Mathematics_Summative_Assessment_Version_B.pdf",
+      "source_page": 2,
+      "final_page": 75,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "Grade_9_MYP_4_Mathematics_Summative_Assessment.pdf",
+      "source_page": 1,
+      "final_page": 338,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "Grade_9_MYP_4_Mathematics_Summative_Assessment.pdf",
+      "source_page": 2,
+      "final_page": 339,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "Grade_10_MYP_5_Mathematics_Summative_Assessment.pdf",
+      "source_page": 1,
+      "final_page": 106,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "Grade_10_MYP_5_Mathematics_Summative_Assessment.pdf",
+      "source_page": 2,
+      "final_page": 107,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "GRADE 10 myp5 exam 1st term version B.pdf",
+      "source_page": 1,
+      "final_page": 108,
+      "text_exact": true,
+      "raster_exact": true
+    },
+    {
+      "file": "GRADE 10 myp5 exam 1st term version B.pdf",
+      "source_page": 2,
+      "final_page": 109,
+      "text_exact": true,
+      "raster_exact": true
+    }
+  ],
+  "rendered_final_pages": 1640
+}

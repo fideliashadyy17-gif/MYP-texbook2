@@ -1,0 +1,27 @@
+{
+  "MYP 1": {"files": [], "note": "No examination file was supplied; all chapter exercises are original."},
+  "MYP 2": {
+    "files": ["MYP2 1st Term examination.pdf", "MYP2 1st Term examination B.pdf"],
+    "mapped_chapters": [1, 2, 3, 8, 10],
+    "topics": ["ratio", "direct proportion", "rates", "volume", "probability"],
+    "integration": "Both complete two-page originals are inserted unaltered after the Chapter 10 practice sequence as cumulative first-term practice. This preserves every question, sequence, figure, table and page relationship exactly."
+  },
+  "MYP 3": {
+    "files": ["Grade_8_MYP_3_Mathematics_Summative_Assessment_Version_B.pdf"],
+    "mapped_chapters": [1, 2, 3],
+    "topics": ["real numbers", "powers", "ratio and algebraic reasoning"],
+    "integration": "The complete two-page original is inserted unaltered at the end of Chapter 3 as cumulative practice for Chapters 1–3."
+  },
+  "MYP 4": {
+    "files": ["Grade_9_MYP_4_Mathematics_Summative_Assessment.pdf"],
+    "mapped_chapters": [12, 13],
+    "topics": ["statistics", "data", "combined probability"],
+    "integration": "The complete two-page original is inserted unaltered after Chapter 12 and before Chapter 13, preserving the source assessment layout."
+  },
+  "MYP 5": {
+    "files": ["Grade_10_MYP_5_Mathematics_Summative_Assessment.pdf", "GRADE 10 myp5 exam 1st term version B.pdf"],
+    "mapped_chapters": [4],
+    "topics": ["sequences", "arithmetic and geometric series", "recursive rules", "quadratic sequences", "financial applications"],
+    "integration": "Both complete two-page originals are inserted unaltered after Chapter 4, in original question order and with all graphics intact."
+  }
+}
